@@ -1,0 +1,17 @@
+Face recognition using CNN and siamese network
+https://www.sciencedirect.com/science/article/pii/S2665917423001368#:~:text=A%20deep%20neural%20network%20model,plotted%20around%20the%20person's%20face.
+
+
+Building image pairs for siamese networks with Python
+1: https://pyimagesearch.com/2020/11/23/building-image-pairs-for-siamese-networks-with-python/
+2: https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/
+3: https://pyimagesearch.com/2020/12/07/comparing-images-for-similarity-using-siamese-networks-keras-and-tensorflow/
+
+Simple Convolution Neural Networks:
+https://medium.com/@myringoleMLGOD/simple-convolutional-neural-network-cnn-for-dummies-in-pytorch-a-step-by-step-guide-6f4109f6df80
+
+
+Good background course:
+Jeff Heaton t81_558_deep_learning
+https://github.com/jeffheaton/t81_558_deep_learning
+https://www.heatonresearch.com/course/
